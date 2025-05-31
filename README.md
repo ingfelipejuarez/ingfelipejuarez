@@ -7,13 +7,13 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🛠️ Habilidades
 
-- Python | C++ | JavaScript
-- HTML5, CSS3
-- Raspberry Pi 5
-- MATLAB, herramientas de optimización
-- Git & GitHub
+- Python 
+- Finanzas
+- Liderazgo
+- Creatividad
+- trabajobajo presion
 - Seguridad informática básica
 
 ---
