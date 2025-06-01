@@ -13,7 +13,7 @@
 - Finanzas
 - Liderazgo
 - Creatividad
-- trabajobajo presion
+- Trabajo bajo presion
 - Seguridad informática básica
 
 ---
