@@ -35,7 +35,7 @@ Proyecto grupal de impacto social y tecnológico para promover el desarrollo sos
 📦 **Enfoque:** Diagnóstico ambiental, diseño de soluciones, comunicación efectiva
 
 ---
-Certificados(https://github.com/ingfelipejuarez/Certificados)
+[Certificados](https://github.com/ingfelipejuarez/Certificados)
 
 ## 📫 Contacto
 
